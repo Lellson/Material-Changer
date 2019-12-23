@@ -1,0 +1,16 @@
+[
+{
+  "modid": "materialchanger",
+  "name": "Material Changer",
+  "description": "Allows you to change various attributes of weapons, tools and armor",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Lellson"],
+  "credits": "The Forge and FML guys",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
